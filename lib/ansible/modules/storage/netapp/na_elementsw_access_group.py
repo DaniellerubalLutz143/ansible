@@ -44,8 +44,6 @@ options:
 
     new_name:
         description:
-        - New name for the access group for create and modify operation.
-        - Required for create operation.
 
     initiators:
         description:
